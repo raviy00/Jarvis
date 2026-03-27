@@ -1,0 +1,122 @@
+[
+  {
+    "role": "user",
+    "content": "විනින් මිනිතු කුඩු කුඩු කිරීමෙන් කිරීමෙන්"
+  },
+  {
+    "role": "assistant",
+    "content": "Ravi, සමාවෙන්න, මට ඔයා කියන දේ ටිකක් සංකීර්ණ වෙලා ඇති. මේ වචන වල අර්ථය ගැන මට වැටහෙන බවක් නෙමෙයි. ඔයා මෙම වචන වල අර්ථය ගැන වඩා විස්තර කරනවා නම්, මට එය ටිකක් වඩා වැටහෙන හැකි වේ."
+  },
+  {
+    "role": "user",
+    "content": "ඔබට කොම්පෙන්"
+  },
+  {
+    "role": "assistant",
+    "content": "Ravi, ඔබට කොම්පෙන්සේෂන් ගෙන දෙන්න ඕන කියල හිතනවද? මම ඔබට ඔබේ වර්ධනය ගැන හෝ ඔබේ දක්ෂතා ගැන පැස දෙන්න හදනවද?"
+  },
+  {
+    "role": "user",
+    "content": "Hello, Javis."
+  },
+  {
+    "role": "assistant",
+    "content": "I'm sorry, my Gemini processor had an error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
+  },
+  {
+    "role": "user",
+    "content": "Hi Javis"
+  },
+  {
+    "role": "assistant",
+    "content": "Hello, how can I assist you today?"
+  },
+  {
+    "role": "user",
+    "content": "हलो जाविस, वाड़को हमन्दर"
+  },
+  {
+    "role": "assistant",
+    "content": "नमस्ते रави, मैं जाविस हूँ। क्या मैं आपकी किसी तरह से मदद कर सकता हूँ?"
+  },
+  {
+    "role": "user",
+    "content": "اویا جکہ مد"
+  },
+  {
+    "role": "assistant",
+    "content": "راوی، آپ کے پیغام کا ترجمہ کرنے کی کوشش کر رہا ہوں، لیکن یہ سمجھنے میں تھوڑی مشکل ہو رہی ہے۔ کیا آپ اپنی بات کو واضح کر سکتے ہیں یا انگریزی میں لکھ سکتے ہیں؟"
+  },
+  {
+    "role": "user",
+    "content": "හිකින් මිනියින් මිනියින් කිනියින් අතියාල් මේස්ල්."
+  },
+  {
+    "role": "assistant",
+    "content": "රවි, මට ඔයා කියන දේ සම්පූර්ණයෙන් වටහා ගන්න බැරි වුණා. ඔයා සින්හල භාෂාවෙන් ලියන බව පේනවා, නමුත් මේ වචන සමූහය ටිකක් අස්ථිර බවක් පෙනේ. ඔයා මෙය ගැන වඩා විස්තර කරනවා නම්, මට මෙය වඩා හොඳින් තේරුම් ගන්න පුළුවන් වේ."
+  },
+  {
+    "role": "user",
+    "content": "Now is tell me a humor"
+  },
+  {
+    "role": "assistant",
+    "content": "Why couldn't the bicycle stand up by itself? Because it was two-tired."
+  },
+  {
+    "role": "user",
+    "content": "Hello Jollies!"
+  },
+  {
+    "role": "assistant",
+    "content": "Hello, I think there's been a mix-up, my name is Jarvis, not Jollies. How can I assist you today?"
+  },
+  {
+    "role": "user",
+    "content": "Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
+  },
+  {
+    "role": "assistant",
+    "content": "I'm having some trouble thinking right now, Ravi."
+  },
+  {
+    "role": "user",
+    "content": "hi"
+  },
+  {
+    "role": "assistant",
+    "content": "I'm having some trouble thinking right now, Ravi."
+  },
+  {
+    "role": "user",
+    "content": "hii"
+  },
+  {
+    "role": "assistant",
+    "content": "I'm having some trouble thinking right now, Ravi."
+  },
+  {
+    "role": "user",
+    "content": "hi"
+  },
+  {
+    "role": "assistant",
+    "content": "I'm having some trouble thinking right now, Ravi."
+  },
+  {
+    "role": "user",
+    "content": "hii"
+  },
+  {
+    "role": "assistant",
+    "content": "Hello, how can I help you today?"
+  },
+  {
+    "role": "user",
+    "content": "can you speak sinhala"
+  },
+  {
+    "role": "assistant",
+    "content": "ඔව්, මම සිංහල කථා කරමි. මට ඔබට උදව් කරන්න පුළුවන්."
+  }
+]

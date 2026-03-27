@@ -1,0 +1,29 @@
+# requirements.txt - Jarvis Dependencies
+
+# Core
+openai>=1.0.0
+python-dotenv
+
+# Telegram
+python-telegram-bot>=20.0
+
+# Speech to Text
+openai-whisper
+torch
+
+# Text to Speech
+gTTS
+pygame
+
+# Audio
+pyaudio
+SpeechRecognition
+
+# Documents
+python-docx
+
+# Web requests
+requests
+
+# Utilities
+numpy
