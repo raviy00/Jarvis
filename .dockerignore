@@ -1,0 +1,33 @@
+.dockerignore
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.venv/
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+*.DS_Store
+Thumbs.db
+
+# Git
+.git/
+
+# Large/unnecessary files
+vlc-help.txt
+push_error.txt
+error.txt
+output.txt
+results.txt
+files.zip
+models.txt
+jarvis/
+
+# Whisper model cache (downloads at runtime)
+~/.cache/whisper/

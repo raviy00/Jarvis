@@ -1,0 +1,31 @@
+version: '3.8'
+
+services:
+  jarvis:
+    build: .
+    image: jarvis-ai:latest
+    container_name: jarvis
+    restart: unless-stopped
+
+    # Load environment variables from .env file
+    env_file:
+      - .env
+
+    ports:
+      - "5000:5000"      # Web Dashboard
+
+    volumes:
+      - ./data:/app/data             # Persistent memory/data
+      - ./logs:/app/logs             # Logs
+      - ./conversation_memory.json:/app/conversation_memory.json
+
+    # Resource limits (Oracle Cloud Free Tier safe)
+    mem_limit: 1g
+    cpus: '1.0'
+
+    # Logging
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "10m"
+        max-file: "3"
