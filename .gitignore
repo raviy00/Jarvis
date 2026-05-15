@@ -1,4 +1,4 @@
-# .env removed to allow pushing per user request
+.env
 __pycache__/
 venv/
 .venv/
