@@ -2,8 +2,8 @@ import os
 import requests
 import google.generativeai as genai
 
-GEMINI_KEY = "AIzaSyBNrX3IgnnOIEnTBypE1QhCnVzOIfX5Qzc"
-DEEPSEEK_KEY = "sk-a42dd3ba8430497e9069b3d48abcaab7"
+GEMINI_KEY = os.getenv("GEMINI_API_KEY")
+DEEPSEEK_KEY = os.getenv("DEEPSEEK_API_KEY")
 
 def test_gemini():
     print("Testing Gemini...")
